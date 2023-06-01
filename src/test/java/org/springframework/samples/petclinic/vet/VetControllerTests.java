@@ -39,7 +39,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  */
 
 @WebMvcTest(VetController.class)
-class dcoverVetControllerTests {
+class VetControllerTests {
 
 	@Autowired
 	private MockMvc mockMvc;
